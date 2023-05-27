@@ -1679,8 +1679,8 @@ select {
   display: flex;
   align-items: flex-end;
   margin: 0 -10px;
-  margin-bottom: 55px;
-  margin-top: 65px;
+  padding-bottom: 55px;
+  padding-top: 65px;
 }
 .brands-top__icon {
   padding: 0 10px;
@@ -1704,8 +1704,8 @@ select {
 } */
 @media (max-width: 922px) {
   .brands-top {
-    margin-bottom: 45px;
-    margin-top: 15px;
+    padding-bottom: 45px;
+    padding-top: 15px;
   }
 }
 @media (max-width: 768px) {
@@ -1714,8 +1714,8 @@ select {
   }
   .brands-top {
     margin: 0 -5px;
-    margin-bottom: 34px;
-    margin-top: 15px;
+    padding-bottom: 34px;
+    padding-top: 15px;
   }
   .brands-top__icon {
     padding: 0 5px;
@@ -1736,8 +1736,8 @@ select {
   }
   .brands-top {
     margin: 0 -5px;
-    margin-bottom: 25px;
-    margin-top: 35px;
+    padding-bottom: 25px;
+    padding-top: 35px;
   }
 }
 @media (max-width: 425px) {
