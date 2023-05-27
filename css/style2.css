@@ -1,0 +1,136 @@
+a {
+  text-decoration: none !important;
+}
+.container {
+  max-width: 1115px !important;
+  padding: 0 37.5px !important;
+}
+.form-control {
+  font-size: 18px !important;
+  line-height: 140% !important;
+}
+.becomeourclient__btn {
+  background: #2b59c3 !important;
+  border-radius: 40px !important;
+  padding: 23px 47px !important;
+}
+@media (max-width: 992px) {
+  .container {
+    max-width: 928px !important;
+    padding: 0 35px !important;
+  }
+}
+@media (max-width: 768px) {
+  .header-menu__list {
+    margin-top: 180px !important;
+  }
+}
+@media (max-width: 992px) {
+  .container {
+    max-width: 928px !important;
+    padding: 0 20px !important;
+  }
+}
+@media (max-width: 576px) {
+  .header-menu__list {
+    margin-top: 127px !important;
+  }
+
+  .becomeourclient__btn {
+    background: #2b59c3 !important;
+    border-radius: 40px !important;
+    padding: 14.5px 47px !important;
+  }
+}
+@media (max-width: 425px) {
+  .header-menu__list {
+    margin-top: 150px !important;
+  }
+  .merch__container {
+    padding: 0 !important;
+  }
+}
+.carousel-control-next,
+.carousel-control-prev {
+  bottom: 0 !important;
+  top: 90% !important;
+  background: #ffffff !important;
+  border-radius: 40px !important;
+}
+.col-md-6 {
+  padding: 0 !important;
+  margin: 0 !important;
+}
+.carousel-inner {
+  position: relative;
+  width: 100%;
+  height: 0;
+  padding-bottom: 34.25% !important;
+  overflow: hidden;
+}
+.carousel-control-prev {
+  left: 35% !important;
+}
+
+.carousel-control-next {
+  right: 35% !important;
+}
+@media (max-width: 425px) {
+  .row {
+    display: flex !important;
+    flex-direction: column-reverse !important;
+  }
+}
+/* .btn {
+  padding: 0 !important;
+} */
+.btn a:hover {
+  color: #000 !important;
+}
+.btn:active {
+  border: none !important;
+}
+
+.home__button > .btn {
+  padding: 0px 0px !important;
+}
+.accordion-button {
+  font-size: 18px !important;
+}
+@media (max-width: 992px) {
+  .accordion-button {
+    font-size: 22px !important;
+  }
+}
+
+@media (max-width: 576px) {
+  .accordion-button {
+    font-size: 15px !important;
+  }
+}
+.form-control {
+  padding: 23px 0 23px 30px !important;
+  border: 1px solid #181818 !important;
+  border-radius: 10px !important;
+}
+.btn-primary {
+  background: #2b59c3 !important;
+  border-radius: 40px !important;
+  padding: 23px 47px !important;
+}
+@media (max-width: 768px) {
+  .btn-primary {
+    padding: 18px 47px !important;
+  }
+}
+@media (max-width: 576px) {
+  .btn-primary {
+    padding: 14px 47px !important;
+  }
+}
+
+/* .slider,
+.slick-initialized,
+.slick-slider {
+  transform: translateX(-100%) !important;
+} */
