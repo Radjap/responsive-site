@@ -132,6 +132,10 @@ a:hover {
     color: none !important;
     text-decoration: underline;
 }
+.header-clone__tel a:hover {
+  color: inherit !important;
+  text-decoration: none !important;
+}
 
 /* .slider,
 .slick-initialized,
